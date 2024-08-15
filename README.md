@@ -1,9 +1,6 @@
-# 👋 olá ! bem veindo ao meu perfil no GITHUB
+# 👋 olá ! bem vindo ao meu perfil no GITHUB
 ## Meu nome é Wilsony louis, Estudante de Ciencia da computação
-<img src = "" width = "400" height = "300" />
-<img src = "" width = "400" height = "300" />
-<img src = "" width = "400" height = "300" />
+<img src = "https://camo.githubusercontent.com/5111008c098c5ad82f4c370cf8a1df7c1fca8115284a02687a41f0930d0b7a9e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536f6e792d617274267468656d653d7675652d6461726b2673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565" width = "400"/>
+<img src = "" width = "400"/>
+<img src = "" width = "400"/>
 
-![Sony-art's Stats](https://github-readme-stats.vercel.app/api?username=Sony-art&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Sony-art's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sony-art&theme=vue-dark&hide_border=true)
-![Sony-art's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sony-art&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
