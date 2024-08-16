@@ -16,7 +16,7 @@
 
 # Contato
 <div>
-  <a href = "instagram.com/sonylouis_">
+  <a href = "instagram.com/sonylouis_/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
     <a href = "www.linkedin.com /in/wilsony-louis-0475132a1">
