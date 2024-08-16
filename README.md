@@ -19,7 +19,7 @@
   <a href = "https://instagram.com/sonylouis_/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-    <a href = "https://www.linkedin.com /in/wilsony-louis-0475132a1">
+    <a href = "www.linkedin.com/in/wilsony-louis-0475132a1">
      <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
    <a href = "https://mailto: wilsonylouis8@gmail.com">
